@@ -1,0 +1,83 @@
+.gradient-background {
+  background: linear-gradient(300deg, #00bfff, #ff4c68, #ef8172);
+  background-size: 180% 180%;
+  animation: gradient-animation 18s ease infinite;
+}
+
+@keyframes gradient-animation {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+.icon-square {
+  width: 3rem;
+  height: 3rem;
+  border-radius: 0.75rem;
+}
+
+.profile-img {
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+
+}
+.nav-link.text-black {
+  color: black !important;
+}
+
+
+.h1-home {
+  font-weight: 785 !important;
+  font-size: 25px !important;
+  line-height: 1 !important;
+}
+
+.button-size {
+  font-size: 1.3rem !important;
+}
+
+.margin-icon {
+  margin-right: 2rem !important;
+}
+
+.bg-body{
+  background-color: rgba(0, 0, 0, 0.03);
+}
+
+.paraph-font{
+  font-size: 1.2rem;
+  margin-bottom: 3rem;
+}
+
+.h2-custom-size{
+  font-size: 2.2rem;
+  margin-top: 2rem;
+}
+
+.p-custom-size{
+  font-size: 1.2rem;
+  margin: 0 1.5rem 3rem
+}
+
+#hobbies {
+  min-height: 100vh;
+  background-color: red !important;
+}
+
+#hobbies h1{
+  font-family: "Montserrat";
+  color: red;
+}
+
+.img-circle{
+  height: 40px;
+  width: 40px;
+  border: 50%;
+}
