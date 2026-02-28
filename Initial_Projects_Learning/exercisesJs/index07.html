@@ -1,0 +1,12 @@
+<ul>
+  <li class="item">Item A</li>
+  <li class="item">Item B</li>
+  <li class="item">Item C</li>
+</ul>
+<script>
+    var lista = document.querySelectorAll("li")
+
+    lista.forEach(function(listFor, index) {
+        listFor.prepend(index + 1 + " ")
+    })
+</script>

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"
+        integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
+</head>
+
+<body>
+    <h1>Não clique em mim</h1>
+    <button id="btn">oi</button>
+
+    <script>
+        $("h1").click(function () {
+            $(this).hide()
+            console.log("po")
+            const ul = document.createElement('ul');
+            $("body").append(ul)
+            // const li = document.createElement("li")
+            for (i = 0; i < 101; i++) {
+                a = Math.floor(Math.random() * 10000)
+                $("ul").append(`<li> ${a}</li>`);
+                console.log(i)
+            }
+
+        })
+    </script>
+</body>
+
+</html>

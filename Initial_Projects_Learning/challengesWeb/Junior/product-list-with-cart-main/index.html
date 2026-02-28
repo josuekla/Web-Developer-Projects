@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- displays site properly based on user's device -->
+  <link rel="icon" type="image/png" sizes="32x32" href="./assets/images/favicon-32x32.png">
+
+  <title>Frontend Mentor | Product list with cart</title>
+
+  <link rel="stylesheet" href="public/style.css">
+
+  <!-- Feel free to remove these styles or customise in your own stylesheet 👍 -->
+  <style>
+    .attribution {
+      font-size: 11px;
+      text-align: center;
+    }
+
+    .attribution a {
+      color: hsl(228, 45%, 44%);
+    }
+  </style>
+</head>
+
+<body>
+
+  <section id="main">
+    <div class="content-main">
+      <div class="title-main">
+        Desserts
+      </div>
+
+      <div class="cards-content">
+        <div class="card">
+          <class class="img-content">
+            <img src="assets/images/image-waffle-desktop.jpg" alt="waffle-img" class="img-card">
+          </class>
+          <div class="add-card">
+            <img src="./assets/images/icon-add-to-cart.svg" alt="addCard-icon" class="icon-addCard-img">
+            <h3>Add to Cart</h3>
+          </div>
+          <div class="sub-description">
+            <p>Waffle</p>
+          </div>
+          <div class="title__card-food">
+            <h4>Waffle with Berries</h4>
+          </div>
+          <div class="price-card">
+            <p>$6.50</p>
+          </div>
+
+        </div> <!-- End of the class 1 card-->
+
+        <div class="card">
+          <class class="img-content">
+            <img src="assets/images/image-vanilla-desktop.jpg" alt="creme-brulle-img" class="img-card">
+          </class>
+          <div class="add-card">
+            <img src="./assets/images/icon-add-to-cart.svg" alt="addCard-icon" class="icon-addCard-img">
+            <h3>Add to Cart</h3>
+          </div>
+          <div class="sub-description">
+            <p>Crème Brûlée</p>
+          </div>
+
+          <div class="title__card-food">
+            <h4>Vanilla Bean Crème Brûlée</h4>
+          </div>
+
+          <div class="price-card">
+            <p>$7.00</p>
+          </div>
+
+        </div> <!-- End of the class 2 card-->
+
+        <div class="card">
+          <class class="img-content">
+            <img src="assets/images/image-macaron-desktop.jpg" alt="macaron-img" class="img-card">
+          </class>
+          <div class="add-card">
+            <img src="./assets/images/icon-add-to-cart.svg" alt="addCard-icon" class="icon-addCard-img">
+            <h3>Add to Cart</h3>
+          </div>
+          <div class="sub-description">
+            <p>Macaron</p>
+          </div>
+
+          <div class="title__card-food">
+            <h4>Macaron Mix of Five</h4>
+          </div>
+
+          <div class="price-card">
+            <p>$8.00</p>
+          </div>
+
+        </div> <!-- End of the class 3 card-->
+
+        <div class="card">
+          <class class="img-content">
+            <img src="assets/images/image-tiramisu-desktop.jpg" alt="tiramisu-img" class="img-card">
+          </class>
+          <div class="add-card">
+            <img src="./assets/images/icon-add-to-cart.svg" alt="addCard-icon" class="icon-addCard-img">
+            <h3>Add to Cart</h3>
+          </div>
+          <div class="sub-description">
+            <p>Tiramisu</p>
+          </div>
+          <div class="title__card-food">
+            <h4>Classic Tiramisu</h4>
+          </div>
+
+          <div class="price-card">
+            <p>$5.50</p>
+          </div>
+
+        </div> <!-- End of the class 4 card-->
+
+        <div class="card">
+          <class class="img-content">
+            <img src="assets/images/image-baklava-desktop.jpg" alt="Baklava-img" class="img-card">
+          </class>
+
+          <div class="add-card">
+            <img src="./assets/images/icon-add-to-cart.svg" alt="addCard-icon" hclass="icon-addCard-img">
+            <h3>Add to Cart</h3>
+          </div>
+          <div class="sub-description">
+            <p>Baklava</p>
+          </div>
+          <div class="title__card-food">
+            <h4>Pistachio Baklava</h4>
+          </div>
+
+          <div class="price-card">
+            <p>$4.00</p>
+          </div>
+
+        </div> <!-- End of the class 5 card-->
+
+        <div class="card">
+          <class class="img-content">
+            <img src="assets/images/image-meringue-desktop.jpg" alt="Lemon Meringue Pie-img" class="img-card">
+          </class>
+
+          <div class="add-card">
+            <img src="./assets/images/icon-add-to-cart.svg" alt="addCard-icon" class="icon-addCard-img">
+            <h3>Add to Cart</h3>
+          </div>
+          <div class="sub-description">
+            <p>Pie</p>
+          </div>
+
+          <div class="title__card-food">
+            <h4>Lemon Meringue Pie</h4>
+          </div>
+
+          <div class="price-card">
+            <p>$5.00</p>
+          </div>
+        </div><!-- End of the class 6 card-->
+
+        <div class="card">
+          <class class="img-content">
+            <img src="assets/images/image-cake-desktop.jpg" alt="Cake-img" class="img-card">
+          </class>
+
+          <div class="add-card">
+            <img src="./assets/images/icon-add-to-cart.svg" alt="addCard-icon" class="icon-addCard-img">
+            <h3>Add to Cart</h3>
+          </div>
+          <div class="sub-description">
+            <p>Cake</p>
+          </div>
+
+          <div class="title__card-food">
+            <h4>Red Velvet Cake</h4>
+          </div>
+
+          <div class="price-card">
+            <p>$4.50</p>
+          </div>
+
+        </div><!-- End of the class 7 card-->
+
+        <div class="card">
+          <class class="img-content">
+            <img src="assets/images/image-brownie-desktop.jpg" alt="brownie-img" class="img-card">
+          </class>
+
+          <div class="add-card">
+            <img src="./assets/images/icon-add-to-cart.svg" alt="addCard-icon" class="icon-addCard-img">
+            <h3>Add to Cart</h3>
+          </div>
+          <div class="sub-description">
+            <p>Brownie</p>
+          </div>
+
+          <div class="title__card-food">
+            <h4>Salted Caramel Brownie</h4>
+          </div>
+
+          <div class="price-card">
+            <p>$4.50</p>
+          </div>
+        </div><!-- End of the class 8 card-->
+
+        <div class="card">
+          <class class="img-content">
+            <img src="assets/images/image-panna-cotta-desktop.jpg" alt="Panna Cotta-img" class="img-card">
+          </class>
+
+          <div class="add-card">
+            <img src="./assets/images/icon-add-to-cart.svg" alt="addCard-icon" class="icon-addCard-img">
+            <h3>Add to Cart</h3>
+          </div>
+          <div class="sub-description">
+            <p>Panna Cotta</p>
+          </div>
+
+          <div class="title__card-food">
+            <h4>Vanilla Panna Cotta</h4>
+          </div>
+
+          <div class="price-card">
+            <p>$6.50</p>
+          </div>
+        </div><!-- End of the class 9 card-->
+
+      </div> <!-- End of the Class cards-content-->
+    </div> <!-- End of the Content Main-->
+
+    <section class="Card-pay">
+      <div id="pay-content">
+        <h2 class="card-title">Your Cart (<!-- Quantity -->0)</h2>
+        <div class="design-empty">
+          <img src="./assets/images/illustration-empty-cart.svg" alt="empty-icon" class="img-empty">
+          <p class="message-empty">Your added items will appear here</p>
+        </div>
+
+
+        <!-- List of prices - In JS -->
+        <div class="Content-List-products">
+
+        </div>
+
+        <!-- Content orderFinal - In JS -->
+        <div id="orderFinal">
+
+        </div>
+
+        <div class="message-carbon">
+          <img src="./assets/images/icon-carbon-neutral.svg" alt="carbon-icon">
+          <p>This is a <span>carbon-neutral </span>delivery</p>
+        </div>
+
+        <button id="bnt-confirm-order" onclick="confirmButton()">
+          Confirm Order
+        </button>
+      </div> <!--End of the #pay-content -->
+
+    </section> <!--End of the section of the pay-->
+
+    </div>
+  </section> <!-- End of the Section Main-->
+
+  <!--Card Paying-->
+  <div id="CardConfirmed" class="overlay">
+    <div class="style-cardPay">
+      <img src="./assets/images/icon-order-confirmed.svg" alt="icon-order-confirmed ">
+      <h2 class="title__pay">Order Confirmed</h2>
+      <p>We hope you enjoy your food</p>
+
+
+    </div>
+  </div> <!--End of the Card Of pay-->
+
+  <div class="attribution">
+    Challenge by <a href="https://www.frontendmentor.io?ref=challenge">Frontend Mentor</a>.
+    Coded by <a href="#">Josué Klaysler</a>.
+  </div>
+
+  <div id="overlay" onclick="fecharPopUp()"></div>
+
+  <script src="public/index.js"></script>
+  <script>atualizarListaCompras();
+  </script>
+</body>
+
+</html>

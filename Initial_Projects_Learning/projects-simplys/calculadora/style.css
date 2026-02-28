@@ -1,0 +1,79 @@
+html{
+    font-size: 62.5%;
+}
+
+h1 {
+    text-align: center;
+}
+
+.container-main {
+    display: flex;
+    flex-direction: column;
+    background-color: #e4e4e4;
+    box-shadow: 2px 1px 15px rgba(0, 0, 0, 0.4);
+    max-width: 400px;
+    min-width: 200px;
+    min-height: 400px;
+    margin: auto;
+}
+
+.tela {
+    width: 90%;
+    background-color: rgb(145, 145, 145);
+    height: 50px;
+    margin: 10px auto;
+    position: relative;
+}
+
+.tela-numeros{
+    margin: 20px 10px;
+    position: relative;
+    text-align: right;
+}
+
+.botoes-content {
+    display: flex;
+    flex-grow: 1;
+    margin: 2rem;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.numeros {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    align-items: center;
+    margin:auto;
+    padding: 0;
+    text-align: center;
+    min-width: 80%;
+    background-color: rgba(109, 61, 61, 0.226);
+}
+
+.operacoes {
+    display: grid;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: blue;
+    width: 100%;
+    flex-grow: 1;
+}
+
+.botao-numero {
+    font-size: 5rem;
+}
+
+.key0{
+    grid-area: 5 / 1 / 5/ 3;
+}
+
+.key-igual{
+    grid-area: 5 / 3 / 5/ 3;
+}
+
+.botao-operator {
+    font-size: 5rem;
+}
+

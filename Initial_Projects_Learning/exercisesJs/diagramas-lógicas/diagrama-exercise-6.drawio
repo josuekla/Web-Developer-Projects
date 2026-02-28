@@ -1,0 +1,100 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="26.1.1">
+  <diagram name="Página-1" id="bRTpC6YUiJiMliBcojfT">
+    <mxGraphModel dx="1572" dy="363" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="KzMFs3RuzzijlyS8NPv3-3" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KzMFs3RuzzijlyS8NPv3-1" target="KzMFs3RuzzijlyS8NPv3-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KzMFs3RuzzijlyS8NPv3-30" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KzMFs3RuzzijlyS8NPv3-1" target="KzMFs3RuzzijlyS8NPv3-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KzMFs3RuzzijlyS8NPv3-1" value="Function(n)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KzMFs3RuzzijlyS8NPv3-7" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KzMFs3RuzzijlyS8NPv3-2" target="KzMFs3RuzzijlyS8NPv3-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KzMFs3RuzzijlyS8NPv3-9" value="false" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KzMFs3RuzzijlyS8NPv3-2" target="KzMFs3RuzzijlyS8NPv3-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KzMFs3RuzzijlyS8NPv3-2" value="n = 1" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="430" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KzMFs3RuzzijlyS8NPv3-6" value="Output [0]" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KzMFs3RuzzijlyS8NPv3-11" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KzMFs3RuzzijlyS8NPv3-8" target="KzMFs3RuzzijlyS8NPv3-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KzMFs3RuzzijlyS8NPv3-13" value="false" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KzMFs3RuzzijlyS8NPv3-8" target="KzMFs3RuzzijlyS8NPv3-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KzMFs3RuzzijlyS8NPv3-8" value="n = 2" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="560" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KzMFs3RuzzijlyS8NPv3-10" value="Output[0,1]" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KzMFs3RuzzijlyS8NPv3-15" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KzMFs3RuzzijlyS8NPv3-12" target="KzMFs3RuzzijlyS8NPv3-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KzMFs3RuzzijlyS8NPv3-17" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KzMFs3RuzzijlyS8NPv3-12" target="KzMFs3RuzzijlyS8NPv3-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KzMFs3RuzzijlyS8NPv3-12" value="n = 3" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="690" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KzMFs3RuzzijlyS8NPv3-14" value="Output [0 ,1, 1]" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KzMFs3RuzzijlyS8NPv3-21" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KzMFs3RuzzijlyS8NPv3-16" target="KzMFs3RuzzijlyS8NPv3-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KzMFs3RuzzijlyS8NPv3-16" value="Sum the last of the two values" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KzMFs3RuzzijlyS8NPv3-23" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KzMFs3RuzzijlyS8NPv3-20" target="KzMFs3RuzzijlyS8NPv3-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KzMFs3RuzzijlyS8NPv3-20" value="While num = 0 &amp;lt; Input(2)" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="105" y="820" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KzMFs3RuzzijlyS8NPv3-42" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KzMFs3RuzzijlyS8NPv3-22" target="KzMFs3RuzzijlyS8NPv3-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KzMFs3RuzzijlyS8NPv3-44" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KzMFs3RuzzijlyS8NPv3-22" target="KzMFs3RuzzijlyS8NPv3-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KzMFs3RuzzijlyS8NPv3-22" value="N = 0" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KzMFs3RuzzijlyS8NPv3-29" value="0, 1, 1, 2, 3, 5, 8, 13" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KzMFs3RuzzijlyS8NPv3-40" value="Output: List [...]" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KzMFs3RuzzijlyS8NPv3-48" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KzMFs3RuzzijlyS8NPv3-41" target="KzMFs3RuzzijlyS8NPv3-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KzMFs3RuzzijlyS8NPv3-41" value="List.add = n" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KzMFs3RuzzijlyS8NPv3-46" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KzMFs3RuzzijlyS8NPv3-43" target="KzMFs3RuzzijlyS8NPv3-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KzMFs3RuzzijlyS8NPv3-43" value="N = 1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="1010" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KzMFs3RuzzijlyS8NPv3-45" value="List.add = n" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="1010" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KzMFs3RuzzijlyS8NPv3-47" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
