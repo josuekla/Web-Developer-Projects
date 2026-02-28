@@ -1,0 +1,112 @@
+[
+  {
+    "id": "0001",
+    "tipo": "taco",
+    "nome": "Taco de Frango",
+    "preco": 2.99,
+    "ingredientes": {
+      "proteina": {
+        "nome": "Frango",
+        "preparo": "Grelhado"
+      },
+      "molho": {
+        "nome": "Molho de Tomate",
+        "picancia": "Média"
+      },
+      "acompanhamentos": [
+        {
+          "nome": "Alface",
+          "quantidade": "1 xícara",
+          "ingredientes": ["Alface Americana"]
+        },
+        {
+          "nome": "Queijo",
+          "quantidade": "1/2 xícara",
+          "ingredientes": ["Queijo Cheddar", "Queijo Monterey Jack"]
+        },
+        {
+          "nome": "Guacamole",
+          "quantidade": "2 colheres de sopa",
+          "ingredientes": ["Abacate", "Suco de Limão", "Sal", "Cebola", "Coentro"]
+        },
+        {
+          "nome": "Creme Azedo",
+          "quantidade": "2 colheres de sopa",
+          "ingredientes": ["Creme Azedo"]
+        }
+      ]
+    }
+  },
+  {
+    "id": "0002",
+    "tipo": "taco",
+    "nome": "Taco de Carne",
+    "preco": 3.49,
+    "ingredientes": {
+      "proteina": {
+        "nome": "Carne Bovina",
+        "preparo": "Temperada e Grelhada"
+      },
+      "molho": {
+        "nome": "Molho Verde",
+        "picancia": "Forte"
+      },
+      "acompanhamentos": [
+        {
+          "nome": "Cebolas",
+          "quantidade": "1/4 xícara",
+          "ingredientes": ["Cebola Branca", "Cebola Roxa"]
+        },
+        {
+          "nome": "Coentro",
+          "quantidade": "2 colheres de sopa",
+          "ingredientes": ["Coentro Fresco"]
+        },
+        {
+          "nome": "Queijo Fresco",
+          "quantidade": "1/4 xícara",
+          "ingredientes": ["Queijo Fresco"]
+        }
+      ]
+    }
+  },
+  {
+    "id": "0003",
+    "tipo": "taco",
+    "nome": "Taco de Peixe",
+    "preco": 4.99,
+    "ingredientes": {
+      "proteina": {
+        "nome": "Peixe",
+        "preparo": "Empanado e Frito"
+      },
+      "molho": {
+        "nome": "Maionese Chipotle",
+        "picancia": "Suave"
+      },
+      "acompanhamentos": [
+        {
+          "nome": "Salada de Repolho",
+          "quantidade": "1 xícara",
+          "ingredientes": [
+            "Repolho Ralado",
+            "Cenoura",
+            "Maionese",
+            "Suco de Limão",
+            "Sal"
+          ]
+        },
+        {
+          "nome": "Pico de Gallo",
+          "quantidade": "1/2 xícara",
+          "ingredientes": ["Tomate", "Cebola", "Coentro", "Suco de Limão", "Sal"]
+        },
+        {
+          "nome": "Creme de Limão",
+          "quantidade": "2 colheres de sopa",
+          "ingredientes": ["Creme Azedo", "Suco de Limão", "Sal"]
+        }
+      ]
+    }
+  }
+]
