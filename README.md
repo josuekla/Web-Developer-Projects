@@ -1,4 +1,4 @@
-# 🚀 Minha Jornada de Desenvolvimento Web - 2024
+# 🚀 Minha Jornada de Desenvolvimento Web - 2024~2026
 
 Bem-vindo ao meu repositório de aprendizado! 🎯
 
