@@ -1,0 +1,192 @@
+id,pais,capital
+1,Afeganistão,Cabul
+2,Albânia,Tirana
+3,Argélia,Argel
+4,Andorra,Andorra-a-Velha
+5,Angola,Luanda
+6,Argentina,Buenos Aires
+7,Armênia,Erevan
+8,Austrália,Canberra
+9,Áustria,Viena
+10,Azerbaijão,Bacu
+11,Bahrein,Manama
+12,Bangladesh,Daca
+13,Barbados,Bridgetown
+14,Bélgica,Bruxelas
+15,Belize,Belmopan
+16,Benin,Porto-Novo
+17,Butão,Thimphu
+18,Bolívia,Sucre
+19,Bósnia e Herzegovina,Sarajevo
+20,Botsuana,Gaborone
+21,Brasil,Brasília
+22,Brunei,Bandar Seri Begawan
+23,Bulgária,Sófia
+24,Burkina Faso,Ouagadougou
+25,Burundi,Gitega
+26,Camboja,Phnom Penh
+27,Camarões,Yaoundé
+28,Canadá,Ottawa
+29,Cabo Verde,Praia
+30,República Centro-Africana,Bangui
+31,Chade,N'Djamena
+32,Chile,Santiago
+33,China,Pequim
+34,Colômbia,Bogotá
+35,Comores,Moroni
+36,Congo,Brazzaville
+37,Costa Rica,San José
+38,Costa do Marfim,Yamoussoukro
+39,Croácia,Zagreb
+40,Cuba,Havana
+41,Chipre,Nicósia
+42,República Tcheca,Praga
+43,República Democrática do Congo,Kinshasa
+44,Dinamarca,Copenhague
+45,Djibuti,Djibuti
+46,Dominica,Roseau
+47,República Dominicana,Santo Domingo
+48,Timor-Leste,Díli
+49,Equador,Quito
+50,Egito,Cairo
+51,El Salvador,San Salvador
+52,Guiné Equatorial,Malabo
+53,Eritreia,Asmara
+54,Estônia,Tallinn
+55,Etiópia,Adis Abeba
+56,Fiji,Suva
+57,Finlândia,Helsinque
+58,França,Paris
+59,Gabão,Libreville
+60,Gâmbia,Banjul
+61,Geórgia,Tbilisi
+62,Alemanha,Berlim
+63,Gana,Acra
+64,Grécia,Atenas
+65,Granada,St. George's
+66,Guatemala,Cidade da Guatemala
+67,Guiné,Conacri
+68,Guiné-Bissau,Bissau
+69,Guiana,Georgetown
+70,Haiti,Porto Príncipe
+71,Honduras,Tegucigalpa
+72,Hungria,Budapeste
+73,Islândia,Reiquiavique
+74,Índia,Nova Délhi
+75,Indonésia,Jacarta
+76,Irã,Teerã
+77,Iraque,Bagdá
+78,Irlanda,Dublin
+79,Israel,Jerusalém
+80,Itália,Roma
+81,Jamaica,Kingston
+82,Japão,Tóquio
+83,Jordânia,Amã
+84,Cazaquistão,Astana
+85,Quênia,Nairóbi
+86,Kiribati,Tarawa
+87,Kuwait,Cidade do Kuwait
+88,Quirguistão,Bishkek
+89,Laos,Vientiane
+90,Letônia,Riga
+91,Líbano,Beirute
+92,Lesoto,Maseru
+93,Libéria,Monróvia
+94,Líbia,Trípoli
+95,Liechtenstein,Vaduz
+96,Lituânia,Vilnius
+97,Luxemburgo,Luxemburgo
+98,Madagascar,Antananarivo
+99,Malawi,Lilongwe
+100,Malásia,Kuala Lumpur
+101,Maldivas,Malé
+102,Mali,Bamako
+103,Malta,Valeta
+104,Ilhas Marshall,Majuro
+105,Mauritânia,Nouakchott
+106,Maurício,Port Louis
+107,México,Cidade do México
+108,Micronésia,Palikir
+109,Moldávia,Chisinau
+110,Mônaco,Mônaco
+111,Mongólia,Ulan Bator
+112,Montenegro,Podgorica
+113,Marrocos,Rabat
+114,Moçambique,Maputo
+115,Myanmar,Nay Pyi Taw
+116,Namíbia,Windhoek
+117,Nauru,Yaren
+118,Nepal,Katmandu
+119,Países Baixos,Amsterdã
+120,Nova Zelândia,Wellington
+121,Nicarágua,Manágua
+122,Níger,Niamey
+123,Nigéria,Abuja
+124,Coreia do Norte,Pyongyang
+125,Macedônia do Norte,Skopje
+126,Noruega,Oslo
+127,Omã,Muscat
+128,Paquistão,Islamabad
+129,Palau,Melekeok
+130,Panamá,Cidade do Panamá
+131,Papua-Nova Guiné,Port Moresby
+132,Paraguai,Assunção
+133,Peru,Lima
+134,Filipinas,Manila
+135,Polônia,Varsóvia
+136,Portugal,Lisboa
+137,Catar,Doha
+138,Romênia,Bucareste
+139,Rússia,Moscou
+140,Ruanda,Kigali
+141,São Cristóvão e Nevis,Basseterre
+142,Santa Lúcia,Castries
+143,São Vicente e Granadinas,Kingstown
+144,Samoa,Apia
+145,San Marino,San Marino
+146,São Tomé e Príncipe,São Tomé
+147,Arábia Saudita,Riad
+148,Senegal,Dacar
+149,Sérvia,Belgrado
+150,Seychelles,Victoria
+151,Serra Leoa,Freetown
+152,Cingapura,Cingapura
+153,Eslováquia,Bratislava
+154,Eslovênia,Ljubljana
+155,Ilhas Salomão,Honiara
+156,Somália,Mogadíscio
+157,África do Sul,Pretória
+158,Coreia do Sul,Seul
+159,Sudão do Sul,Juba
+160,Espanha,Madri
+161,Sri Lanka,Colombo
+162,Sudão,Cartum
+163,Suriname,Paramaribo
+164,Suécia,Estocolmo
+165,Suíça,Berna
+166,Síria,Damasco
+167,Tajiquistão,Duchambe
+168,Tanzânia,Dodoma
+169,Tailândia,Bangkok
+170,Bahamas,Nassau
+171,Togo,Lomé
+172,Tonga,Nuku'alofa
+173,Trinidad e Tobago,Port of Spain
+174,Tunísia,Túnis
+175,Turquia,Ancara
+176,Turcomenistão,Ashgabat
+177,Tuvalu,Funafuti
+178,Uganda,Kampala
+179,Ucrânia,Kiev
+180,Emirados Árabes Unidos,Abu Dhabi
+181,Reino Unido,Londres
+182,Estados Unidos,Washington
+183,Uruguai,Montevidéu
+184,Uzbequistão,Tashkent
+185,Vanuatu,Port Vila
+186,Vaticano,Vaticano
+187,Venezuela,Caracas
+188,Vietnã,Hanoi
+189,Iêmen,Sanaá
+190,Zâmbia,Lusaca
+191,Zimbábue,Harare
